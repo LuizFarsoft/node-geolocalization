@@ -1,5 +1,5 @@
 # Javascript-Node.js - Aplicação para salvar geolocalização
-Este repositório contém a aplicação RESTful desenvolvida com Node.js que permite salvar a geolocalização de um usuário em um banco de dados MySQL. Você encontra a explicação passo a passo do desenvolvimento da aplicação neste link:
+Este repositório contém a aplicação RESTful desenvolvida com Node.js que permite salvar a geolocalização de um usuário em um banco de dados MySQL.
 
 SQL do banco gerado
 
